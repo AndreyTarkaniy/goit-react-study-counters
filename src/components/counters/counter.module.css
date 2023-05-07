@@ -1,0 +1,21 @@
+.counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  border: solid 1px tomato;
+  margin-bottom: 30px;
+}
+
+.counterControls {
+  margin-top: 30px;
+  display: flex;
+  gap: 10px;
+}
+
+.button {
+  padding: 10px;
+  background-color: turquoise;
+  border: none;
+  border-radius: 5px;
+}
